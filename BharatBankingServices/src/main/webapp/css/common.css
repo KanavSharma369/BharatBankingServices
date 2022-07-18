@@ -1,0 +1,186 @@
+@charset "ISO-8859-1";
+body{
+	margin:0px;
+}
+a{
+	text-decoration: none;
+}
+.text-navy-blue{
+	color:#205072;
+}
+.text-sea-green{
+	color:#329D9C;
+}
+.text-dark-green{
+	color:#56C596;
+}
+.text-light-green{
+	color:#7BE495;
+}
+.text-white-green{
+	color:#CFF4D2;
+}
+.text-white-green:hover{
+	color: white;
+}
+
+.bg-navy-blue{
+	background-color:#205072;
+}
+
+.bg-sea-green{
+	background-color:#329D9C;
+}
+.bg-dark-green{
+	background-color:#56C596;
+}
+.bg-light-green{
+	background-color:#7BE495;
+}
+.bg-white-green{
+	background-color:#CFF4D2;
+}
+.bg-white-green:hover{
+	background-color: white;
+}
+
+.banner{
+  	background-attachment: fixed;
+	box-shadow: inset 0px 30px 80px 100px #56C596;
+
+}
+.sub-banner{
+	padding-top: 12%;
+	padding-bottom: 12%;
+
+	font-size: 30px;
+	color: white;
+}
+.gradient-sea{
+	box-shadow: inset 0px 30px 40px  1px #7BE495; 
+}
+.gradient-navy{
+	box-shadow: inset 0px 30px 40px  1px #329D9C; 
+}
+.top-margin{
+	margin-top: 5%;
+}
+.bottom-margin{
+	margin-bottom: 5%;
+}
+.top-padding{
+	padding-top: 5%;
+}
+.bottom-padding{
+	padding-bottom: 5%;
+}
+.services{
+	width: 250px;
+	height: 250px;
+	background-color:#205072;
+}
+.services:hover{
+	color:black;
+	background-color:#CFF4D2;
+}
+
+.about-us{
+	background-image: url("/BharatBankingServices/img/about.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	box-shadow: inset 0 0 0 2000px #1c1c1c7a;
+	background-size: 800px;
+	margin:0px;
+	padding: 20px;
+	
+}
+.fixed{
+		background-attachment: fixed;
+	
+}
+.bring-front{
+	z-index:2000;
+}
+
+.transfer-banner{
+			width:100%;
+			padding-top: 15%;
+			padding-bottom: 10%;
+			font-size: 30px;
+			
+		}
+
+.site-footer {
+  padding: 2em 0;
+  background: #343a40; 
+  }
+  @media (min-width: 768px) {
+    .site-footer {
+      padding: 3em 0; } 
+      }
+  .site-footer .border-top {
+    border-top: 1px solid rgba(255, 255, 255, 0.1) !important; 
+    }
+  .site-footer p {
+    color: rgba(255, 255, 255, 0.7); 
+    }
+  .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5 {
+    color: #fff; 
+    }
+  .site-footer a {
+    color: rgba(255, 255, 255, 0.7);
+    
+    }
+    .site-footer a:hover {
+      color: white; 
+      }
+  .site-footer ul li {
+    margin-bottom: 10px; 
+    }
+  .site-footer .footer-heading {
+    font-size: 16px;
+    color: #fff; 
+    }
+    
+    .footer-social a {
+  text-decoration: none !important; }
+
+.footer-subscribe .form-control {
+  border-color: #fff !important; }
+  .footer-subscribe .form-control::-webkit-input-placeholder {
+    /* Chrome/Opera/Safari */
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 200;
+    font-style: italic; }
+  .footer-subscribe .form-control::-moz-placeholder {
+    /* Firefox 19+ */
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 200;
+    font-style: italic; }
+  .footer-subscribe .form-control:-ms-input-placeholder {
+    /* IE 10+ */
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 200;
+    font-style: italic; }
+  .footer-subscribe .form-control:-moz-placeholder {
+    /* Firefox 18- */
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: 200;
+    font-style: italic; }
+
+.footer-subscribe .btn {
+  height: 43px;
+  line-height: 1;
+  border: 1px solid #fff;
+  background: #fff !important;
+  color: #000 !important; }
+  .footer-subscribe .btn:hover, .footer-subscribe .btn:focus, .footer-subscribe .btn:active {
+    border: 1px solid #fff; }
+    
+ .list-unstyled{
+ 	text-decoration: none;
+ }
+    
+
+    
+    
